@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- using the "Light Blue" Material Palette -->
+    <color name="background">@color/primary</color> <!-- 500 -->
+    <color name="background2">@color/primary_dark</color>
+    <color name="digital_text">@color/primary_text</color>
+    <color name="digital_colons">@color/accent</color>
+
+    <!-- AlexSt: copied from Sunshine's color.xml to match its theme-->
+    <!-- using the "Light Blue" Material Palette -->
+    <color name="primary">#03A9F4</color>  <!-- 500 -->
+    <color name="primary_dark">#0288D1</color>  <!-- 700 -->
+    <color name="primary_light">#B3E5FC</color> <!-- 100 -->
+    <color name="accent">#FFD740</color>
+    <color name="primary_text">#FFFFFF</color>
+    <color name="secondary_text">#BBE5FB</color>
+
+</resources>

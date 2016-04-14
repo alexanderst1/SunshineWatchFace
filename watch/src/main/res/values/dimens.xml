@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="time_text_size">35dp</dimen>
+    <dimen name="time_text_size_round">40dp</dimen>
+    <dimen name="temperature_text_size">25dp</dimen>
+    <dimen name="temperature_text_size_round">30dp</dimen>
+    <dimen name="date_text_size">17dp</dimen>
+    <dimen name="date_text_size_round">20dp</dimen>
+    <dimen name="y_offset">85dp</dimen>
+    <dimen name="vertical_padding_time_date">5dp</dimen>
+    <dimen name="vertical_padding_date_tempt">20dp</dimen>
+    <dimen name="horiz_padding_icon_tempt">10dp</dimen>
+    <dimen name="horiz_padding_high_low_tempt">5dp</dimen>
+    <dimen name="am_pm_size">25dp</dimen>
+    <dimen name="am_pm_size_round">30dp</dimen>
+    <dimen name="divider_line_length">30dp</dimen>
+</resources>
