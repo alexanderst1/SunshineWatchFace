@@ -20,7 +20,7 @@ Through this project, you will:
 * Clone/Download a zip file of the final branch of Sunshine from Advanced Android App Development.
 * Spend time exploring the samples built into Android Studio, looking for ways to incorporate that functionality into an Android Wear watchface.
 Design Mocks
-* Feel free to use the following square and round designs as a design reference.
+* Feel free to use the following round and square designs as a design reference.
 
 ![](img/design_mock_round.png) ![](img/design_mock_square.png)
 
